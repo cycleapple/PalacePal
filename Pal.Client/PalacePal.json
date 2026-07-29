@@ -1,8 +1,8 @@
 ﻿{
     "Name": "Palace Pal",
     "Author": "Liza Carvelli (Puni.sh)",
-    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+    "Punchline": "顯示死者宮殿、天之御柱及正統優雷卡中的潛在陷阱與埋藏寶箱位置。",
+    "Description": "顯示死者宮殿、天之御柱及正統優雷卡中的潛在陷阱與埋藏寶箱位置。\n\n本插件需要 Splatoon 才能在畫面上繪製標記。",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
     "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
     "Tags": [ "potd", "palace", "hoh", "splatoon" ],

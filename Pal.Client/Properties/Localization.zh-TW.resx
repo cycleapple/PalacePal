@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="Palace_Pal" xml:space="preserve"><value>Palace Pal 深層迷宮助手</value></data>
+  <data name="PalaceOfTheDead" xml:space="preserve"><value>死者宮殿</value></data>
+  <data name="HeavenOnHigh" xml:space="preserve"><value>天之御柱</value></data>
+  <data name="EurekaOrthos" xml:space="preserve"><value>正統優雷卡</value></data>
+  <data name="Save" xml:space="preserve"><value>儲存</value></data>
+  <data name="SaveAndClose" xml:space="preserve"><value>儲存並關閉</value></data>
+  <data name="Error_FirstTimeSetupRequired" xml:space="preserve"><value>請先完成初始設定。</value></data>
+  <data name="Error_LoadFailed" xml:space="preserve"><value>插件無法載入：{0}</value></data>
+  <data name="Error_WrongRepository" xml:space="preserve"><value>請從官方儲存庫 {0} 安裝本插件後再繼續使用。</value></data>
+  <data name="Command_pal_HelpText" xml:space="preserve"><value>開啟設定視窗</value></data>
+  <data name="Command_pal_UnknownSubcommand" xml:space="preserve"><value>「{1}」沒有「{0}」這個子指令。</value></data>
+  <data name="Command_pal_stats_CurrentFloor" xml:space="preserve"><value>可在設定視窗的「除錯」分頁查看目前樓層統計。</value></data>
+  <data name="Command_pal_stats_UnableToFetchStatistics" xml:space="preserve"><value>無法取得統計資料。</value></data>
+  <data name="Error_CommandFailed" xml:space="preserve"><value>無法執行指令：{0}</value></data>
+  <data name="ConnectionSuccessful" xml:space="preserve"><value>連線成功。</value></data>
+  <data name="ConnectionError_NotOnline" xml:space="preserve"><value>目前未連線。</value></data>
+  <data name="ConnectionError_OldVersion" xml:space="preserve"><value>Palace Pal 版本已過舊，請透過插件安裝器更新。</value></data>
+  <data name="ConnectionError_CreateAccountFailed" xml:space="preserve"><value>無法建立帳號（{0}）。</value></data>
+  <data name="ConnectionError_CreateAccountReturnedNoId" xml:space="preserve"><value>建立帳號後未取得帳號 ID。</value></data>
+  <data name="ConnectionError_InvalidAccountId" xml:space="preserve"><value>帳號 ID 無效。</value></data>
+  <data name="ConnectionError_LoginFailed" xml:space="preserve"><value>無法登入（{0}）。</value></data>
+  <data name="ConnectionError_LoginReturnedNoToken" xml:space="preserve"><value>沒有可用的登入資訊。</value></data>
+  <data name="ConnectionError_CouldNotConnectToServer" xml:space="preserve"><value>無法連線至伺服器：{0}</value></data>
+  <data name="ConfigTab_DeepDungeons" xml:space="preserve"><value>深層迷宮</value></data>
+  <data name="Config_Traps_Show" xml:space="preserve"><value>顯示陷阱</value></data>
+  <data name="Config_Traps_Color" xml:space="preserve"><value>陷阱顏色</value></data>
+  <data name="Config_Traps_HideImpossible" xml:space="preserve"><value>隱藏不在目前樓層的陷阱</value></data>
+  <data name="Config_Traps_HideImpossible_ToolTip" xml:space="preserve"><value>使用洞察魔陶器時，只顯示實際存在的陷阱；使用安全魔陶器時隱藏所有陷阱。</value></data>
+  <data name="Config_HoardCoffers_Show" xml:space="preserve"><value>顯示埋藏的寶藏</value></data>
+  <data name="Config_HoardCoffers_Color" xml:space="preserve"><value>埋藏的寶藏顏色</value></data>
+  <data name="Config_HoardCoffers_HideImpossible" xml:space="preserve"><value>隱藏不在目前樓層的埋藏寶箱</value></data>
+  <data name="Config_HoardCoffers_HideImpossible_ToolTip" xml:space="preserve"><value>使用直覺魔陶器時，只顯示實際存在的埋藏寶箱位置。</value></data>
+  <data name="Config_SilverCoffer_Show" xml:space="preserve"><value>顯示白銀寶箱位置</value></data>
+  <data name="Config_SilverCoffers_ToolTip" xml:space="preserve"><value>顯示目前樓層附近的白銀寶箱；此資料不會與其他玩家同步或跨樓層保存。</value></data>
+  <data name="Config_SilverCoffer_Color" xml:space="preserve"><value>白銀寶箱顏色</value></data>
+  <data name="Config_SilverCoffer_Filled" xml:space="preserve"><value>填滿繪製</value></data>
+  <data name="Config_GoldCoffer_Show" xml:space="preserve"><value>顯示黃金寶箱位置</value></data>
+  <data name="Config_GoldCoffers_ToolTip" xml:space="preserve"><value>顯示目前樓層附近的黃金寶箱；此資料不會與其他玩家同步或跨樓層保存。</value></data>
+  <data name="Config_GoldCoffer_Color" xml:space="preserve"><value>黃金寶箱顏色</value></data>
+  <data name="Config_GoldCoffer_Filled" xml:space="preserve"><value>填滿繪製</value></data>
+  <data name="ConfigTab_Community" xml:space="preserve"><value>社群</value></data>
+  <data name="Config_TestConnection" xml:space="preserve"><value>測試連線</value></data>
+  <data name="Config_TestConnection_Connecting" xml:space="preserve"><value>正在測試……</value></data>
+  <data name="ConfigTab_Import" xml:space="preserve"><value>匯入</value></data>
+  <data name="Config_ImportExplanation1" xml:space="preserve"><value>若無法連線至伺服器或不想分享發現，可以使用匯出資料。</value></data>
+  <data name="Config_ImportExplanation2" xml:space="preserve"><value>匯出資料目前由人工產生，只包含至少 5 人遇過的陷阱與埋藏寶箱，因此高樓層涵蓋率可能較低。</value></data>
+  <data name="Config_ImportExplanation3" xml:space="preserve"><value>若目前並非離線狀態，匯入檔案不會有明顯效果。</value></data>
+  <data name="Config_ImportDownloadLocation" xml:space="preserve"><value>可從 {0} 下載匯出資料（*.pal 檔案）。</value></data>
+  <data name="Config_Import_VisitGitHub" xml:space="preserve"><value>前往 GitHub</value></data>
+  <data name="Config_SelectImportFile" xml:space="preserve"><value>要匯入的檔案：</value></data>
+  <data name="Config_SelectImportFile_Hint" xml:space="preserve"><value>*.pal 檔案路徑</value></data>
+  <data name="Config_StartImport" xml:space="preserve"><value>開始匯入</value></data>
+  <data name="Config_UndoImportExplanation1" xml:space="preserve"><value>上次於 {0} 匯入了來自 {1}、建立於 {2:d} 的資料庫。</value></data>
+  <data name="Config_UndoImportExplanation2" xml:space="preserve"><value>若這是誤操作，可移除僅來自該次匯入的位置；親自發現的位置不會變更。</value></data>
+  <data name="Config_UndoImport" xml:space="preserve"><value>復原匯入</value></data>
+  <data name="ConfigTab_Export" xml:space="preserve"><value>匯出</value></data>
+  <data name="Config_ExportSource" xml:space="preserve"><value>匯出 {0} 的所有標記：</value></data>
+  <data name="Config_Export_SaveAs" xml:space="preserve"><value>另存為：</value></data>
+  <data name="Config_StartExport" xml:space="preserve"><value>開始匯出</value></data>
+  <data name="ConfigTab_Renderer" xml:space="preserve"><value>繪製器</value></data>
+  <data name="Config_SelectRenderBackend" xml:space="preserve"><value>選擇標記的繪製後端：</value></data>
+  <data name="Config_Renderer_Splatoon" xml:space="preserve"><value>Splatoon</value></data>
+  <data name="Config_Renderer_Splatoon_Hint" xml:space="preserve"><value>預設；必須安裝 Splatoon</value></data>
+  <data name="Config_Renderer_Simple" xml:space="preserve"><value>簡易</value></data>
+  <data name="Config_Renderer_Simple_Hint" xml:space="preserve"><value>實驗性功能</value></data>
+  <data name="Config_Splatoon_DrawCircles" xml:space="preserve"><value>在自己周圍繪製陷阱與寶箱圓圈</value></data>
+  <data name="ConfigTab_Debug" xml:space="preserve"><value>除錯</value></data>
+  <data name="Config_Debug_NotInADeepDungeon" xml:space="preserve"><value>目前不在深層迷宮中。</value></data>
+  <data name="Statistics" xml:space="preserve"><value>統計資料</value></data>
+  <data name="Statistics_TerritoryId" xml:space="preserve"><value>ID</value></data>
+  <data name="Statistics_InstanceName" xml:space="preserve"><value>副本名稱</value></data>
+  <data name="Statistics_Traps" xml:space="preserve"><value>陷阱</value></data>
+  <data name="Statistics_HoardCoffers" xml:space="preserve"><value>埋藏的寶藏</value></data>
+  <data name="Explanation_1" xml:space="preserve"><value>Palace Pal 會顯示潛在的陷阱與埋藏寶箱位置。</value></data>
+  <data name="Explanation_2" xml:space="preserve"><value>使用魔陶器揭露陷阱或寶箱時，插件會儲存看到的位置。</value></data>
+  <data name="Explanation_3" xml:space="preserve"><value>目標是找出所有潛在位置，但越高樓層挑戰次數越少，也越難完整測繪。</value></data>
+  <data name="Explanation_4" xml:space="preserve"><value>你可選擇是否與社群分享發現。設定可隨時變更，伺服器不會收到角色或帳號資料。</value></data>
+  <data name="Config_UploadMyDiscoveries_ShowOtherTraps" xml:space="preserve"><value>上傳我的發現，並顯示其他玩家發現的陷阱與寶箱</value></data>
+  <data name="Config_NeverUploadDiscoveries_ShowMyTraps" xml:space="preserve"><value>絕不上傳發現，只顯示我親自找到的陷阱與寶箱</value></data>
+  <data name="Agreement_Warning1" xml:space="preserve"><value>雖然這不是自動化功能，仍很可能違反服務條款。</value></data>
+  <data name="Agreement_Warning2" xml:space="preserve"><value>小隊中的其他玩家永遠能看到你的站位與移動。</value></data>
+  <data name="Agreement_Warning3" xml:space="preserve"><value>請避免在遊戲中提及，也不要分享影片或截圖。</value></data>
+  <data name="Agreement_UsingThisOnMyOwnRisk" xml:space="preserve"><value>我了解使用本插件的風險由我自行承擔。</value></data>
+  <data name="Agreement_ViewPluginAndServerSourceCode" xml:space="preserve"><value>查看插件與伺服器原始碼</value></data>
+  <data name="Agreement_PickOneOption" xml:space="preserve"><value>請選擇上方其中一個選項。</value></data>
+  <data name="ImportCompleteStatistics" xml:space="preserve"><value>已匯入 {0} 個新陷阱位置及 {1} 個新埋藏寶箱位置。</value></data>
+  <data name="Error_ImportFailed" xml:space="preserve"><value>匯入失敗：{0}</value></data>
+  <data name="Error_ImportFailed_IncompatibleVersion" xml:space="preserve"><value>匯入失敗：版本不相容。</value></data>
+  <data name="Error_ImportFailed_InvalidFile" xml:space="preserve"><value>匯入失敗：檔案無效。</value></data>
+  <data name="pnAccursed Hoard" xml:space="preserve"><value>埋藏的寶藏</value></data>
+  <data name="pnAccursed Hoard Outline Colour" xml:space="preserve"><value>埋藏的寶藏外框顏色</value></data>
+  <data name="pnBronze Coffer color" xml:space="preserve"><value>青銅寶箱顏色</value></data>
+  <data name="pnMimic Coffer color" xml:space="preserve"><value>青銅擬態怪寶箱顏色</value></data>
+  <data name="pnMimic Help" xml:space="preserve"><value>只能偵測早期樓層中藏在青銅寶箱內的擬態怪。</value></data>
+  <data name="pnCoffers" xml:space="preserve"><value>寶箱</value></data>
+  <data name="pnCommon settings" xml:space="preserve"><value>一般設定</value></data>
+  <data name="pnDisplay Bronze Treasure Coffer Locations" xml:space="preserve"><value>顯示青銅寶箱位置</value></data>
+  <data name="pnDisplay Passages" xml:space="preserve"><value>顯示傳送魔紋</value></data>
+  <data name="pnDisplay Potential Accursed Hoard Coffer Locations" xml:space="preserve"><value>顯示潛在埋藏寶箱位置</value></data>
+  <data name="pnDisplay Potential Accursed Hoard Coffer Locations Help" xml:space="preserve"><value>顯示所有曾發現埋藏寶箱的位置。</value></data>
+  <data name="pnDisplay Potential Trap Locations" xml:space="preserve"><value>顯示潛在陷阱位置</value></data>
+  <data name="pnDisplay Potential Trap Locations Help" xml:space="preserve"><value>顯示看不見的樓層陷阱潛在位置。</value></data>
+  <data name="pnDraw Traps Filled" xml:space="preserve"><value>填滿繪製陷阱</value></data>
+  <data name="pnHide Accursed Hoard Locations on Intuition Use" xml:space="preserve"><value>使用直覺魔陶器時隱藏埋藏寶箱位置</value></data>
+  <data name="pnHide Accursed Hoard Locations on Intuition Use Help" xml:space="preserve"><value>使用直覺魔陶器後，在找到寶藏前停止繪製潛在位置。</value></data>
+  <data name="pnHide Traps on Safety/Sight Use" xml:space="preserve"><value>使用安全／洞察魔陶器時隱藏陷阱</value></data>
+  <data name="pnHide Traps on Safety/Sight Use Help" xml:space="preserve"><value>揭露或消除陷阱後，不再繪製本樓層實際不存在的陷阱。</value></data>
+  <data name="pnHighlight When Activated" xml:space="preserve"><value>啟動時醒目標示</value></data>
+  <data name="pnHighlight When Activated Help" xml:space="preserve"><value>傳送魔紋預設只有外框與文字；啟用後也會以亮綠色填滿。</value></data>
+  <data name="pnPassages" xml:space="preserve"><value>傳送魔紋</value></data>
+  <data name="pnText overlay font scale" xml:space="preserve"><value>文字覆蓋層字型縮放</value></data>
+  <data name="pnTrap Outline Colour" xml:space="preserve"><value>陷阱外框顏色</value></data>
+  <data name="pnTraps" xml:space="preserve"><value>陷阱</value></data>
+  <data name="pnText overlay" xml:space="preserve"><value>文字覆蓋層</value></data>
+  <data name="pnExit Outline Colour" xml:space="preserve"><value>出口外框顏色</value></data>
+  <data name="Pilgrim's Traverse" xml:space="preserve"><value>朝聖者之路</value></data>
+</root>
