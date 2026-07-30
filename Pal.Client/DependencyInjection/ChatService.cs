@@ -104,7 +104,11 @@ namespace Pal.Client.DependencyInjection
             if (Svc.ClientState.ClientLanguage == ClientLanguage.French) return @"^Sous-sol (\d+)";
             if (Svc.ClientState.ClientLanguage == (ClientLanguage)4) return @"^地下(\d+)层";
             if (Svc.ClientState.ClientLanguage == (ClientLanguage)5) return @"^地下(\d+)層";
-            throw new Exception("Invalid client language: " + Svc.ClientState.ClientLanguage);
+            if (Svc.ClientState.ClientLanguage == (ClientLanguage)7) return @"^地下(\d+)層";
+
+            // Do not prevent the whole plugin from loading when Dalamud adds a language
+            // that this older API13-compatible branch does not know about yet.
+            return @"^.*?(\d+)";
 
         }
 
