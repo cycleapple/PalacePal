@@ -1,0 +1,26 @@
+diff --git a/PunishLib/PunishLib.csproj b/PunishLib/PunishLib.csproj
+index 585e88e..bd1606b 100644
+--- a/PunishLib/PunishLib.csproj
++++ b/PunishLib/PunishLib.csproj
+@@ -6,7 +6,7 @@
+     </PropertyGroup>
+ 
+     <PropertyGroup>
+-        <TargetFramework>net9.0-windows7.0</TargetFramework>
++        <TargetFramework>net10.0-windows7.0</TargetFramework>
+         <Platforms>x64</Platforms>
+         <LangVersion>preview</LangVersion>
+         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+diff --git a/PunishLib/packages.lock.json b/PunishLib/packages.lock.json
+index 4a9ecd4..823472c 100644
+--- a/PunishLib/packages.lock.json
++++ b/PunishLib/packages.lock.json
+@@ -1,7 +1,7 @@
+ {
+   "version": 1,
+   "dependencies": {
+-    "net9.0-windows7.0": {
++    "net10.0-windows7.0": {
+       "ECommons": {
+         "type": "Direct",
+         "requested": "[3.0.1.3, )",
